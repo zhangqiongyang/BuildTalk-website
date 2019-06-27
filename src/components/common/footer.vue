@@ -5,7 +5,7 @@
         <div class="footer_left">
           <div class="titleBox">
             <img src="../../../static/img/footer_logo.png" alt="">
-            <p>建筑知识就在建谈</p>
+            <p>聊建筑，上建谈</p>
           </div>
           <p class="left_text">客服电话：010-50960100</p>
           <p class="left_text">邮箱：market@51jiantan.com</p>

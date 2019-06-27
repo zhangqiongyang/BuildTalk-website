@@ -1,7 +1,7 @@
 <template>
   <div class="index">
     <div class="index_banner">
-      <img src="../../../static/img/banner.png" alt="">
+      <img src="../../../static/img/banner.jpg" alt="">
     </div>
     <div class="index_feature">
       <img src="../../../static/img/index1.png" alt="">
